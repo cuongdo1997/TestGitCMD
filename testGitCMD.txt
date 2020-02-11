@@ -1,6 +1,4 @@
 fixed first time
-<<<<<<< HEAD
- 
-=======
+
 intend to make conflict
->>>>>>> 4927727ff2eeb8915ccf2697e26c8a05c63cfac7
+
